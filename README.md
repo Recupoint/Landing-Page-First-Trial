@@ -1,2 +1,2 @@
-# Landing-Page-Trial
+# Landing-Page
 Just a Trial
