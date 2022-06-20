@@ -16,7 +16,7 @@ section{
 }
 
 body{
-overflow: auto;
+overflow: hidden;
 }
 header{
     position: absolute;
